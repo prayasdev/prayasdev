@@ -16,11 +16,11 @@ Welcome to my GitHub profile! I'm a student passionate about coding, learning ne
 - [**Project 1:** Description of your project](https://github.com/yourusername/project1)
 - [**Project 2:** Description of your project](https://github.com/yourusername/project2)
 - [**Project 3:** Description of your project](https://github.com/yourusername/project3)
-
+  
 ## 📫 Reach Me at
-- **Email:** [prayasdas.rkl@gmail.com](mailto:prayasdas.rkl@gmail.com)
-- **LinkedIn:** [Prayas Das](https://www.linkedin.com/in/prayasdaslk/)
-- **Twitter:** [@VectorPrayas](https://twitter.com/VectorPrayas)
+- **Email:** <a href="mailto:prayasdas.rkl@gmail.com" target="_blank">prayasdas.rkl@gmail.com</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/prayasdaslk/" target="_blank">Prayas Das</a>
+- **Twitter:** <a href="https://twitter.com/VectorPrayas" target="_blank">@VectorPrayas</a>
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vectorwiz&show_icons=true&theme=radical)
