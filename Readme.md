@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a student passionate about coding, learning ne
 - **Tools:** Git, VS Code
 
 ## 🌟 Projects
-- [**Project 1:** Description of your project](https://github.com/yourusername/project1)
+- [**Project 1:** Notice from BPUT Website to Discord](https://github.com/vectorwiz/web2discord)
 - [**Project 2:** Description of your project](https://github.com/yourusername/project2)
 - [**Project 3:** Description of your project](https://github.com/yourusername/project3)
   
