@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm a student passionate about coding, learning new technologies, and building awesome projects. Here's a little about me and what I'm working on.
 
 ## 🚀 About Me
-- 🌱 I’m currently learning: Machine Learning
-- 💡 I’m interested in: Web Development, ML, IoT
+- 🌱 I’m currently learning: OS
+- 💡 I’m interested in: Web Development, ML, IoT, Flutter
 - 🎓 Education: B.Tech in Electrical Engineering
 
 ## 🔧 Skills
