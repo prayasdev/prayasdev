@@ -8,13 +8,13 @@ Welcome to my GitHub profile! I'm a student passionate about coding, learning ne
 - 🎓 Education: B.Tech in Electrical Engineering
 
 ## 🔧 Skills
-- **Languages:** Python, JavaScript, C, HTML, CSS
-- **Frameworks:** MongoDB
-- **Tools:** Git, VS Code
+- **Languages:** Python, JavaScript, C, C++
+- **Frameworks:** MongoDB, React, Firebase, Flutter
+- **Tools:** Git, VS Code, MATLAB, MULTISIM
 
 ## 🌟 Projects
-- [**Web2Discord:** Notice sent from BPUT Website to Discord](https://github.com/vectorwiz/web2discord)
-- [**Project 2:** Description of your project](https://github.com/yourusername/project2)
+- [**Web2Discord:** Notice sent from BPUT Website to Discord](https://github.com/prayasdev/web2discord)
+- [**Samarthya:** A full stack AI powered Job Portal](https://github.com/prayasdev/calcfe)
 - [**Project 3:** Description of your project](https://github.com/yourusername/project3)
   
 ## 📫 Reach Me at
@@ -23,6 +23,6 @@ Welcome to my GitHub profile! I'm a student passionate about coding, learning ne
 - **Twitter:** <a href="https://twitter.com/VectorPrayas" target="_blank">@VectorPrayas</a>
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sillyscript&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prayasdev&show_icons=true&theme=radical)
 
 Thanks for visiting! 😊
