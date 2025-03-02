@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a student passionate about coding, learning ne
 - **Twitter:** <a href="https://twitter.com/VectorPrayas" target="_blank">@VectorPrayas</a>
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prayasdev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prayasdev&show_icons=true&theme=radical)
+![Languages Stats](https://raw.githubusercontent.com/prayasdev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 Thanks for visiting! 😊
