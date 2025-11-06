@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a student passionate about coding, learning ne
 ## 🌟 Projects
 - [**Web2Discord:** Notice sent from BPUT Website to Discord](https://github.com/prayasdev/web2discord)
 - [**Samarthya:** A full stack AI powered Job Portal](https://github.com/prayasdev/calcfe)
-- [**Project 3:** Description of your project](https://github.com/yourusername/project3)
+- [**Samarthya CRM:** AI powered CRM with AI calling as plugin feature](https://github.com/prayasdev/project3)
   
 ## 📫 Reach Me at
 - **Email:** <a href="mailto:prayasdas.rkl@gmail.com" target="_blank">prayasdas.rkl@gmail.com</a>
@@ -26,4 +26,4 @@ Welcome to my GitHub profile! I'm a student passionate about coding, learning ne
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prayasdev&show_icons=true&theme=radical)
 ![Languages Stats](https://raw.githubusercontent.com/prayasdev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-Thanks for visiting! 😊
+Thanks for visiting!
