@@ -1,6 +1,6 @@
 # Hello, I'm **Prayas**. 
 
-My Portfolio: **[https://prayas.is-a.dev]** & **[prayasdas.is-a.dev]**
+My Portfolio: **[prayas.is-a.dev](https://prayas.is-a.dev)** & **[prayasdas.is-a.dev](https://prayasdas.is-a.dev)**
 
 Reach Me at: **[prayasdas.rkl@gmail.com](mailto:prayasdas.rkl@gmail.com)**.
 
