@@ -1,6 +1,6 @@
 # Hello, I'm **Prayas**. 
 
-My Portfolio: **[prayas.is-a.dev](https://prayas.is-a.dev)** & **[prayasdas.is-a.dev](https://prayasdas.is-a.dev)**
+My Portfolios: **[prayas.is-a.dev](https://prayas.is-a.dev)** & **[prayasdas.is-a.dev](https://prayasdas.is-a.dev)**
 
 Actually all these things like commits, languages used etc are nothing because whatever I make are usually private. So, it will be better to have an one-on-one talk (also I don't update my portfolio all the time, so kinda old experiences up there). Currently a Training and Placement Co-ordinator.
 
