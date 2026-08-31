@@ -26,6 +26,6 @@ Reach Me at: **[prayasdas.rkl@gmail.com](mailto:prayasdas.rkl@gmail.com)**.
 ![](https://github-contributor-stats.vercel.app/api?username=codeKidaGyan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
 ---
-[![](https://komarev.com/ghpvc/?username=prayasdev&icon=0&color=0xf84f1d)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=prayasdev&icon=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
