@@ -1,4 +1,7 @@
-# Hello, I'm **Prayas**. 
+<h1 align="center">
+  Hi, I am Prayas
+</h1>
+<h3 align="center">A passionate Electrical Engineer and Developer</h3> 
 
 My Portfolios: **[prayas.is-a.dev](https://prayas.is-a.dev)** & **[prayasdas.is-a.dev](https://prayasdas.is-a.dev)**
 
