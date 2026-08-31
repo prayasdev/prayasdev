@@ -2,6 +2,8 @@
 
 My Portfolio: **[prayas.is-a.dev](https://prayas.is-a.dev)** & **[prayasdas.is-a.dev](https://prayasdas.is-a.dev)**
 
+Actually all these things like commits, languages used etc are nothing because whatever I make are usually private. So, it will be better to have an one-on-one talk (also I don't update my portfolio all the time, so kinda old experiences up there). Currently a Training and Placement Co-ordinator.
+
 Reach Me at: **[prayasdas.rkl@gmail.com](mailto:prayasdas.rkl@gmail.com)**.
 
 <!--
@@ -15,6 +17,7 @@ Reach Me at: **[prayasdas.rkl@gmail.com](mailto:prayasdas.rkl@gmail.com)**.
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=prayasdev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=prayasdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <!--
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
